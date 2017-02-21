@@ -1,0 +1,11 @@
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/AddUserPage.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/helpers/UserHelper.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/models/Book.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/MyProfilePage.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/MenuPage.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/BookPage.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/helpers/BookHelper.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/SignInPage.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/helpers/Table.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/PageBase.java
+/home/tester/git/librarytest/selenidetest/src/main/java/se/nackademin/selenidetest/pages/BrowseBooksPage.java
